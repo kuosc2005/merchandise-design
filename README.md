@@ -17,7 +17,7 @@ Bring your A-game to design captivating stickers that capture KUOSC, KUCC, their
 Ready to showcase your creativity? Share your designs via pull request on GitHub:
 https://github.com/kuosc2005/merchandise-design.git
 
-Just follow the [Contribution Guidelines](CONTRIBUTIONG.md). Your designs not only elevate our events but count as open-source contributions on your profile.🌈🎉
+Just follow the [Contribution Guidelines](CONTRIBUTING.md). Your designs not only elevate our events but count as open-source contributions on your profile.🌈🎉
 
 ### 🎁 Expanding Possibilities:
 But wait, there's more! Besides stickers, consider spreading your creativity to other merchandise like hoodies, t-shirts, mugs, and more. The options are limitless!
