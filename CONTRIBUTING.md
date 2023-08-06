@@ -25,7 +25,7 @@ We would ❤️ you to contribute to Merchandise Design and help make it better!
   
 ## Code of Conduct 👮
 
-Help us keep Merchandise Design open and inclusive. Please read and follow our [Code of Conduct](https://github.com/MercandiseDesign/.github/blob/main/CODE_OF_CONDUCT.md).
+Help us keep Merchandise Design open and inclusive. Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Submit a Pull Request 🚀
 
