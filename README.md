@@ -3,7 +3,7 @@ __🎨🎉 Hello Creative Minds! 🎨🎉__
 We've got thrilling news! With Kathmandu University Computer Club (KUCC) and Kathmandu University Open Source Committee (KUOSC) gearing up for exciting events, we're turning to your design brilliance to add that extra spark. And guess what? Fabulous prizes are up for grabs!💫🏆
 
 <p align="center">
-  <img src="https://github.com/sanjaypahari/kucc/assets/107178884/ca136b97-09fd-439f-b5e3-67d5ac082481" alt="KUCC Logo" width="150">
+  <img src="https://github.com/kuosc2005/merchandise-design/blob/main/resources/kuosc_login.png?raw=true" alt="KUOSC Logo" width="150">
 </p>
 
 ### 🌟 What's Happening:
